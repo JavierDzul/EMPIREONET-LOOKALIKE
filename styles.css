@@ -20,7 +20,7 @@ body {
     font-family: 'Segoe UI', Arial, sans-serif;
     background: 
         linear-gradient(135deg, #000 0%, #181818 35%, #222 60%, #3a1a1a 80%, #dd0000 100%),
-        url('../img/bg.jpg');
+        url('./img/casino_hands.jpg');
     background-blend-mode: overlay;
     background-size: cover;
     background-position: center;
